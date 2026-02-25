@@ -1,5 +1,4 @@
 # Boolean are TRUE and FALSE
-
 is_active = True
 is_admin = False
 
@@ -45,3 +44,4 @@ print(bool(none_value))
 print(bool(empty_tuple))
 print(bool(empty_dict))
  
+
